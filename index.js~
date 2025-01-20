@@ -1,2 +1,0 @@
-import {askQuestion} from "./input.js";
-askQuestion()
